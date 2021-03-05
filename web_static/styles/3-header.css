@@ -6,7 +6,12 @@ header {
 	border-bottom: 1px solid #CCCCCC;
 }
 
-#logo {
-	padding-left: 20px;
+#airbnb_logo{
 	background-image: url("../images/logo.png");
+	width: 142px;
+	height: 100%;
+	text-align: left;
+	margin-left: 20px;
+	background-position: center;
+	background-repeat: no-repeat;
 }
