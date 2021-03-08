@@ -4,6 +4,7 @@
 	padding-top: 20px;
 	margin-left: 20px;
 	text-align: center;
+	z-index: -1;
 }
 
 .places article{

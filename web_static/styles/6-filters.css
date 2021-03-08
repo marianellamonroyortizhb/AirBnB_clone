@@ -4,6 +4,7 @@
 	width: 100%;
 	border: 1px solid #DDDDDD;
 	border-radius: 4px;
+	z-index: 2;
 }
 
 .filters button{
@@ -61,7 +62,6 @@
 	width: 100%;
 	margin-top: 10px;
 	margin-left: -1px;
-
 }
 
 .filters .locations .popover{
